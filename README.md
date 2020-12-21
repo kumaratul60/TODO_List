@@ -9,4 +9,3 @@ RecyclerView
 Entity anonotations & Toast activity
 Insert and delete functionality
 
-https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0
